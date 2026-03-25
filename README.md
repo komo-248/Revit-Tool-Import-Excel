@@ -12,7 +12,9 @@ An Excel lighting schedule is parsed and mapped to a Revit schedule via a Dynamo
 
 ## Excel Input
 
-<img src="/images/Excel Lighting Schedule.png" width="700"/>
+<p align="center">
+  <img src="/images/Excel Lighting Schedule.png" width="800"/>
+</p>
 
 ---
 
@@ -20,18 +22,26 @@ An Excel lighting schedule is parsed and mapped to a Revit schedule via a Dynamo
 
 **Dynamo Script**
 
-<img src="/images/Dynamo.png" width="700"/>
+<p align="center">
+  <img src="/images/Dynamo.png" width="800"/>
+</p>
 
 **pyRevit Toolbar**
 
-<img src="/images/Toolbar.png" width="500"/>
+<p align="center">
+  <img src="/images/Toolbar.png" width="600"/>
+</p>
 
 **Import Dialog**
 
-<img src="/images/UI Popup.png" width="400"/>
+<p align="center">
+  <img src="/images/UI Popup.png" width="300"/>
+</p>
 
 ---
 
 ## Output
 
-<img src="/images/Revit Table.png" width="700"/>
+<p align="center">
+  <img src="/images/Revit Table.png" width="800"/>
+</p>

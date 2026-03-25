@@ -1,17 +1,37 @@
-# Revit Tool - Import Excel
-One-click solution for Revit to import Excel tables.
+# Revit Tool – Import Excel
 
-## Excel
-### Lighting Schedule
-<img src="/images/Excel Lighting Schedule.png">
+A one-click Revit add-in to import Excel tables directly into Revit schedules. Built with Python, Dynamo, and the pyRevit framework.
+
+---
+
+## How It Works
+
+An Excel lighting schedule is parsed and mapped to a Revit schedule via a Dynamo script, exposed through a pyRevit toolbar button and a clean UI popup — no manual data entry, no copy-paste.
+
+---
+
+## Excel Input
+
+<img src="/images/Excel Lighting Schedule.png" width="700"/>
+
+---
 
 ## Revit
-### Dynamo (Visual Python)
-<img src="/images/Dynamo.png">
 
-### pyRevit (UI)
-<img src="/images/Toolbar.png">
-<img src="/images/UI Popup.png">
+**Dynamo Script**
 
-### Output
-<img src="/images/Revit Table.png">
+<img src="/images/Dynamo.png" width="700"/>
+
+**pyRevit Toolbar**
+
+<img src="/images/Toolbar.png" width="500"/>
+
+**Import Dialog**
+
+<img src="/images/UI Popup.png" width="400"/>
+
+---
+
+## Output
+
+<img src="/images/Revit Table.png" width="700"/>
